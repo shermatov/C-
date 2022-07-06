@@ -8,26 +8,25 @@
 
 ```### **There should be a main menu.**
 **MAIN MENU**
-    _1.Calculator
-    2.Metric Conversation
-    3.Exit_
+    1. Calculator
+    2. Metric Conversation
+    3. Exit
 **If user selects 1 
 CALCULATOR**
-    _1. Addition
+    1. Addition
     2. Subtraction
     3. Multiplication_
 **If user selects 2
 METRIC CONVERSATION**
-   _ 1. Inches to Centimetres
-    2. Centimetres to Inches_
+    1. Inches to Centimetres
+    2. Centimetres to Inches
 **If user selects 3
 Explanation of each menu:**
-    _1.1. Addition is fist number +second number
+    1.1. Addition is fist number +second number
     1.2. Subtraction is fist number - second number
     1.3. Multiplication is fist number x second number
     2. The following formulas can be used to convert English units of measurements to metric units:
-    2.a. inches * 2.54 = centimeters_
-**GOOD LUCK
-**
+    2.a. inches * 2.54 = centimeters
+GOOD LUCK
 ```
 
