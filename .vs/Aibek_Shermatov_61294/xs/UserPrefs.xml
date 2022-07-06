@@ -1,0 +1,25 @@
+﻿<Properties StartupConfiguration="{A2FE339D-6F0B-4EDA-BE92-BA1DDEA976ED}|Default">
+  <MonoDevelop.Ide.ItemProperties.Aibek__Shermatov__61294 PreferredExecutionTarget="MonoDevelop.Default" />
+  <MonoDevelop.Ide.Workbench ActiveDocument="Aibek_Shermatov_61294/Program.cs">
+    <Files>
+      <File FileName="Aibek_Shermatov_61294/Program.cs" Line="23" Column="25" />
+    </Files>
+    <Pads>
+      <Pad Id="ProjectPad">
+        <State name="__root__">
+          <Node name="Aibek_Shermatov_61294" expanded="True">
+            <Node name="Aibek_Shermatov_61294" expanded="True">
+              <Node name="Program.cs" selected="True" />
+            </Node>
+          </Node>
+        </State>
+      </Pad>
+    </Pads>
+  </MonoDevelop.Ide.Workbench>
+  <MonoDevelop.Ide.DebuggingService.PinnedWatches />
+  <MonoDevelop.Ide.Workspace ActiveConfiguration="Debug" />
+  <MonoDevelop.Ide.DebuggingService.Breakpoints>
+    <BreakpointStore />
+  </MonoDevelop.Ide.DebuggingService.Breakpoints>
+  <MultiItemStartupConfigurations />
+</Properties>
