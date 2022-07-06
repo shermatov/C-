@@ -10,7 +10,6 @@ graph TD;
     1 --> Calculator;
     2 --> Metric Conversation;
     3 --> Exit;
-    C-->D;
 ```
 
 ```### **There should be a main menu.**
