@@ -5,11 +5,14 @@
 #### 2.You will have 2 hours to do this project. It is not obligatory but using method is a good idea.
 ### Description:
 #### _Your project will start with a main menu and after one option is selected, another menu should come on the screen as explained below. If user selects 3, application will end otherwise it will continue after program prompts the result. All formulas and menu behaviour are explained as well. Results of your calculation should be shown._
+Here is a simple flow chart:
+
 ```mermaid
 graph TD;
-    1 --> Calculator;
-    2 --> Metric Conversation;
-    3 --> Exit;
+    A-->B;
+    A-->C;
+    B-->D;
+    C-->D;
 ```
 
 ```### **There should be a main menu.**
